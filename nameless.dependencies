@@ -1,0 +1,26 @@
+[
+  {
+    "remote": "nameless",
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch": "android-4.4"
+  },
+  {
+    "remote": "nameless",
+    "repository": "android_device_sony_common",
+    "target_path": "device/sony/common",
+    "branch": "android-4.4"
+  },
+  {
+    "remote": "nameless",
+    "repository": "android_device_sony_qcom-common",
+    "target_path": "device/sony/qcom-common",
+    "branch": "android-4.4"
+  },
+  {
+    "remote": "nameless",
+    "repository": "android_kernel_sony_msm8x27",
+    "target_path": "kernel/sony/msm8x27",
+    "branch": "android-4.4"
+  }
+]
