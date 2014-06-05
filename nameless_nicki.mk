@@ -13,7 +13,7 @@
 # limitations under the License.
 
 # Inherit some common NamelessRom stuff.
-$(call inherit-product, vendor/cm/config/common.mk)
+$(call inherit-product, vendor/nameless/config/common.mk)
 
 # Inherit device configuration
 $(call inherit-product, device/sony/nicki/full_nicki.mk)
